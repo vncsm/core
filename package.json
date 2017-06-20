@@ -1,6 +1,6 @@
 {
   "name": "@vnc/core",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "This is the default package of Virtual Node CSM",
   "main": "./libs/index.js",
   "scripts": {
