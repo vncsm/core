@@ -1,0 +1,25 @@
+{
+  "name": "@vnc/core",
+  "version": "0.0.0",
+  "description": "This is the default package of Virtual Node CSM",
+  "main": "./libs/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vncsm/core.git"
+  },
+  "keywords": [
+    "csm",
+    "framework",
+    "nodejs",
+    "forum"
+  ],
+  "author": "Hồ Duy Quốc Bảo <hoduyquocbao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vncsm/core/issues"
+  },
+  "homepage": "https://github.com/vncsm/core#readme"
+}
